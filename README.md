@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+### My name is Isaac and I'm currently studying Computer Engineering at UFRN, in Brazil
+
+- 🔭 I’m currently working on ...
+      -> App SisTEA
+  
+- 🌱 I’m currently learning ...
+      -> JavaScript, React and React Native
+
+- 📫 How to reach me: ...
+      -> EMAILS:
+          isacpdalves@gmail.com
+          isaac.diniz.702@ufrn.edu.br
+
 <!--
 **isaacdiniiz/isaacdiniiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
