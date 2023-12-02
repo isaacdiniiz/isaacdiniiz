@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### My name is Isaac and I'm currently studying Computer Engineering at UFRN, in Brazil
 
 - 🔭 I’m currently working on ...
