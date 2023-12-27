@@ -1,10 +1,10 @@
 ### My name is Isaac and I'm currently studying Computer Engineering at UFRN, in Brazil
 
 - 🔭 I’m currently working on ...
-      -> App SisTEA
+      -> self-taught Python Project
   
 - 🌱 I’m currently learning ...
-      -> JavaScript, React and React Native
+      -> Python and React
 
 - 📫 How to reach me: ...
       -> EMAILS:
